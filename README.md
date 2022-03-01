@@ -18,7 +18,7 @@ Contents
 
 Numbers
 ----
-**python's 2 main types for Numbers is int and float (or integers and floating point numbers)**
+**python's two main types for Numbers is int and float (or integers and floating point numbers)**
 ```python
 type(1)   # int 
 type(-10) # int
@@ -59,7 +59,7 @@ pi = float(pi)
 
 Strings
 ----
-**strings in python as stored as sequences of letters in memory**
+**strings in python is stored as sequences of letters in memory**
 ```python
 type('Hellloooooo') # str
 
