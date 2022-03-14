@@ -24,7 +24,10 @@ OR
 ### Usage
 1. Html files should be placed inside `templates` folder.
 2. JS & CSS files should be placed inside `static` folder.
-
+3. [Request Handling](https://flask.palletsprojects.com/en/2.0.x/quickstart/#the-request-object)
 Resources
 ---------
-* [Free HTML templates](http://www.mashup-template.com/templates.html)
+1. Free HTML templates
+* http://www.mashup-template.com/templates.html
+* https://html5up.net/ 
+* https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
