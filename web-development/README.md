@@ -43,3 +43,5 @@ Resources
 * [Python anywhere](https://help.pythonanywhere.com/pages/Flask/)
 3. Sample:
 * https://github.com/aneagoie/portfo
+4. Web development tutorial
+* https://www.w3schools.com/html/default.asp 
