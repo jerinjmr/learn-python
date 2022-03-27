@@ -45,3 +45,7 @@ Resources
 * https://github.com/aneagoie/portfo
 4. Web development tutorial
 * https://www.w3schools.com/html/default.asp 
+5. Selenium: Browser Automation
+* https://selenium-python.readthedocs.io/
+* [selenium python cheat sheet](http://allselenium.info/python-selenium-commands-cheat-sheet-frequently-used/)
+* [practice browser testing here](https://demo.seleniumeasy.com/)
