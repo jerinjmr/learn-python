@@ -1,4 +1,14 @@
 body {
     background-color: lightskyblue
    }
-   
+.logo {
+    background-color: #08219c;
+    padding: 10px;
+    color: white;
+    text-align: center;
+  }
+.info {
+background-color: #1d6fcce8;
+padding: 4px;
+color: white;
+}
