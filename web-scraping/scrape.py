@@ -39,3 +39,7 @@ def calls():
     """Server code."""
     market_feed = get_stock_reco()
     return render_template('index.html', calls=market_feed)
+
+
+if __name__ == '__main__':
+    app.run()
